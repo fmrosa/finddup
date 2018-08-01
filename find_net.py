@@ -1,3 +1,5 @@
+# editing this thing using my ipad pro now. sweet
+
 from ipaddress import IPv4Address, IPv4Network
 
 ifile = open('all_networks.txt');
